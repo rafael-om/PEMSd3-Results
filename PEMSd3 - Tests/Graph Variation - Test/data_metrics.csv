@@ -1,0 +1,8 @@
+Data ID,Location / Name,Initial Date,Final Date,Samples Interval (minutes),Plus Interval,Short Term Samples,Medium Term Time,Medium Term Samples,Long Term Time,Long Term Samples,Sensors,Interpolate Data (%),Interpolate Before Split,Interpolate Before Exclude,Observations
+0,PEMSD3,2023-01-01 00:00:00,2023-08-28 23:55:00,5,1,2,24,6,168,12,331,4.582664589627392,True,True,
+1,Fully Disjointed,2023-01-01 00:00:00,2023-08-28 23:55:00,5,1,2,24,6,168,12,331,4.582664589627392,True,True,
+2,Linear Graph,2023-01-01 00:00:00,2023-08-28 23:55:00,5,1,2,24,6,168,12,331,4.582664589627392,True,True,
+3,Circular Graph,2023-01-01 00:00:00,2023-08-28 23:55:00,5,1,2,24,6,168,12,331,4.582664589627392,True,True,
+4,Two Linear Graph,2023-01-01 00:00:00,2023-08-28 23:55:00,5,1,2,24,6,168,12,331,4.582664589627392,True,True,
+5,Two Circular Graph,2023-01-01 00:00:00,2023-08-28 23:55:00,5,1,2,24,6,168,12,331,4.582664589627392,True,True,
+6,Square Mesh Closed,2023-01-01 00:00:00,2023-08-28 23:55:00,5,1,2,24,6,168,12,331,4.582664589627392,True,True,

@@ -1,0 +1,2 @@
+Model ID,Training Dataset Size,Batch Size,Epochs,Loss,RMSE,NRMSE,MAE,MAPE,Total Time,GPU used?,Observations
+0,6912,300,50,3812.077880859375,53.384639739990234,inf,53.090110778808594,3725122560.0,00:12:11,False,

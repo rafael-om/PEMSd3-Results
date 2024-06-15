@@ -1,0 +1,6 @@
+Data ID,Location / Name,Initial Date,Final Date,Samples Interval (minutes),Plus Interval,Short Term Samples,Medium Term Time,Medium Term Samples,Long Term Time,Long Term Samples,Sensors,Interpolate Data (%),Interpolate Before Split,Interpolate Before Exclude,Observations
+0,PEMSd3 GNN Original,2023-01-01 00:00:00,2023-08-28 23:55:00,5,1,2,24,6,168,12,1,0,True,True,
+1,PEMSd3 GNN False 1,2023-01-01 00:00:00,2023-08-28 23:55:00,5,1,2,24,6,168,12,1,0,True,True,
+2,PEMSd3 GNN False 2,2023-01-01 00:00:00,2023-08-28 23:55:00,5,1,2,24,6,168,12,1,0,True,True,
+3,PEMSd3 GNN False 3,2023-01-01 00:00:00,2023-08-28 23:55:00,5,1,2,24,6,168,12,1,0,True,True,
+4,PEMSd3 GNN False 4,2023-01-01 00:00:00,2023-08-28 23:55:00,5,1,2,24,6,168,12,1,0,True,True,
